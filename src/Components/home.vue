@@ -5,11 +5,11 @@
 
     <div class="w3-content" style="max-width:2000px; ">
 
-        <img class="w3-image" src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=902&q=80" alt="Hamburger Catering" width="500px" height="300px" float:left>
+        <img class="w3-image" src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=902&q=80" alt="Hamburger Catering" width="450px" height="280px" float:left>
     
 
         
-        <img class="w3-image" src="https://media.architecturaldigest.com/photos/582cce93efb84d105bd02260/4:3/w_1439,h_1080,c_limit/place-setting.jpg"  alt="Table Setting" width="500px" height="300px" >
+        <img class="w3-image" src="https://media.architecturaldigest.com/photos/582cce93efb84d105bd02260/4:3/w_1439,h_1080,c_limit/place-setting.jpg"  alt="Table Setting" width="450px" height="300px" >
        
 
     
