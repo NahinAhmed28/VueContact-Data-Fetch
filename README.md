@@ -1,14 +1,24 @@
 # Vue Contact Data Fetch
 
-Vue Contact Data Fetch is a Vue-based project for fetching and displaying contact data. It is intended for practicing component-based UI, API requests, and data rendering in a Vue application.
+Vue Contact Data Fetch is a Vue project for fetching and displaying contact data.
 
-## Project Details
+## Features
 
-- Repository: `NahinAhmed28/VueContact-Data-Fetch`
-- Default branch: `main`
-- Visibility: public
-- Project type: Vue front-end application
-- Main focus: contact data fetching and display
+- Vue-based contact list display
+- API/data-fetch workflow
+- Component-based UI structure
+- Ready for pagination, search, or detail views
+
+## Modules
+
+- Component module: contact cards, lists, and reusable UI pieces
+- Service module: API request helpers and data fetching
+- State module: loaded data, errors, and loading states
+- Asset module: styles, icons, and static resources
+
+## System Architecture
+
+The application follows a client-side Vue architecture. Vue components render the interface, service helpers fetch contact data from an API or local source, and state controls loading/error/data display. The app can be deployed as static assets after a production build.
 
 ## Getting Started
 
@@ -18,9 +28,3 @@ cd VueContact-Data-Fetch
 npm install
 npm run dev
 ```
-
-If the project uses a different script name, check `package.json` and update this section.
-
-## Notes
-
-Document the API endpoint, expected response shape, and any environment variables required for local development.
